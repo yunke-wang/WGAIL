@@ -28,4 +28,4 @@ This repository contains the PyTorch code for the paper "Learning to Weight Impe
  ```
 
 ## Acknowledegement
-We would like to thank the authors of 2IWIL and IC-GAIL. Our code structure is largely based on their source code.
+We would like to thank the authors of [2IWIL/IC-GAIL][https://github.com/kristery/Imitation-Learning-from-Imperfect-Demonstration]. Our code structure is largely based on their source code.
