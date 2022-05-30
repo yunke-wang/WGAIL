@@ -26,6 +26,7 @@ This repository contains the PyTorch code for the paper "Learning to Weight Impe
  ```
  python trpo_irl.py --env Ant-v2 --num-epochs 5000 --reward-path 'reward_model/ant_reward_stage2.pth' --stage 2
  ```
+The re-implementation of T-REX/D-REX can be found in [SAIL](https://github.com/naivety77/SAIL).
 
 ## Acknowledegement
 We would like to thank the authors of [2IWIL/IC-GAIL](https://github.com/kristery/Imitation-Learning-from-Imperfect-Demonstration). Our code structure is largely based on their source code.
