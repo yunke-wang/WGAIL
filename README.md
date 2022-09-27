@@ -1,6 +1,6 @@
 # Learning to Weight Imperfect Demonstrations
 
-This repository contains the PyTorch code for the paper "Learning to Weight Imperfect Demonstrations" in ICML 2021.
+This repository contains the PyTorch code for the paper "Learning to Weight Imperfect Demonstrations" in ICML 2021. Code for Atari experiments can be found in [this repo](https://github.com/naivety77/gail_atari).
 
 ## Requirement
  * Python 3.7
